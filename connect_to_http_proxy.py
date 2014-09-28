@@ -10,7 +10,7 @@ import sys
 #base64.encodestring("das\120xsdada\s")
 
 def usage ():
-    print "connect_to_http_proxy %s (lh2008999@gmail.com)"
+    print "connect_to_http_proxy %s "
     print "usage: connect_to_http_proxy <desthost> <destport>"
 
 if len(sys.argv) != 3:
